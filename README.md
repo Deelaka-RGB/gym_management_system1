@@ -177,7 +177,7 @@ We welcome contributions to improve the Gym Management System! Here's how you ca
 
 For support, bug reports, or feature requests:
 
-- **Email**: support@gymmanagement.com
+- **Email**: deelakaherath113@gmail.com
 - **GitHub Issues**: [Create an issue](https://github.com/yourusername/gym-management-system/issues)
 - **Documentation**: Check our [Wiki](https://github.com/yourusername/gym-management-system/wiki)
 
